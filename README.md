@@ -4,8 +4,8 @@
 💻 Passionate about software development, especially Java and web technologies.  
 🌱 Currently learning: Object-Oriented Programming, Web Development, and Backend Engineering.  
 🤝 Looking to collaborate on open-source projects, web apps, and anything that challenges me to grow.  
-📫 Reach me at: christiajh@example.com (replace with your actual email)  
-😄 Pronouns: He/Him  
+📫 Reach me at: christiaxxr@gmail.com 
+😄 Pronouns: Him
 ⚡ Fun fact: I love solving logic puzzles and building things that make people’s lives easier!
 
 <!---
